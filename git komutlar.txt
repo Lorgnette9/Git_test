@@ -1,0 +1,11 @@
+git --version
+git init
+git config --global user.email "email_adresiniz"
+git config --global user.name "isminiz"
+git status
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/techproed2020/Git_...​
+git push -u origin master--------Git nedir?
+Versiyon Kontrol Sistemi
